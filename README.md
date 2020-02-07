@@ -6,3 +6,4 @@
 
 Front-end image:
 ![front-end](https://github.com/GabrielPrzy/Login-Front-End/blob/master/front-end.jpg)
+Front-end challenge originally proposed by Mirum agency.
